@@ -30,7 +30,6 @@
                                                 <rect key="frame" x="109" y="71" width="196" height="128"/>
                                             </imageView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="fob-ve-FIA" firstAttribute="centerY" secondItem="DRY-Ph-mhc" secondAttribute="centerY" id="VB2-gl-wJw"/>
                                             <constraint firstItem="fob-ve-FIA" firstAttribute="centerX" secondItem="DRY-Ph-mhc" secondAttribute="centerX" id="ryc-6Z-q5S"/>
@@ -49,7 +48,6 @@
                                                                 <rect key="frame" x="53" y="85" width="100" height="100"/>
                                                             </imageView>
                                                         </subviews>
-                                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                         <constraints>
                                                             <constraint firstItem="m90-KJ-Ihg" firstAttribute="centerX" secondItem="4x9-oO-abL" secondAttribute="centerX" id="cUa-jp-Svt"/>
                                                             <constraint firstItem="m90-KJ-Ihg" firstAttribute="centerY" secondItem="4x9-oO-abL" secondAttribute="centerY" id="xlU-z9-UL3"/>
@@ -62,14 +60,12 @@
                                                                 <rect key="frame" x="53" y="85" width="100" height="100"/>
                                                             </imageView>
                                                         </subviews>
-                                                        <color key="backgroundColor" systemColor="systemGray2Color"/>
                                                         <constraints>
                                                             <constraint firstItem="byy-HO-8ji" firstAttribute="centerX" secondItem="d4V-vB-SfJ" secondAttribute="centerX" id="2QY-RS-bHI"/>
                                                             <constraint firstItem="byy-HO-8ji" firstAttribute="centerY" secondItem="d4V-vB-SfJ" secondAttribute="centerY" id="EQA-RO-ron"/>
                                                         </constraints>
                                                     </view>
                                                 </subviews>
-                                                <color key="backgroundColor" red="0.34195634720000001" green="0.33838140960000002" blue="0.81180757280000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 <constraints>
                                                     <constraint firstItem="4x9-oO-abL" firstAttribute="leading" secondItem="lBg-nc-tQt" secondAttribute="leading" id="7WQ-GF-ih7"/>
                                                     <constraint firstItem="d4V-vB-SfJ" firstAttribute="top" secondItem="lBg-nc-tQt" secondAttribute="top" id="PRZ-yW-B5f"/>
@@ -80,7 +76,6 @@
                                                 </constraints>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="lBg-nc-tQt" firstAttribute="top" secondItem="2QV-Tt-7bw" secondAttribute="top" id="8BE-le-ylO"/>
                                             <constraint firstAttribute="trailing" secondItem="lBg-nc-tQt" secondAttribute="trailing" id="OIJ-hF-aWD"/>
@@ -93,7 +88,7 @@
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vxF-Nc-wzy">
                                                 <rect key="frame" x="157" y="110" width="100" height="50"/>
-                                                <color key="backgroundColor" red="0.90588235289999997" green="0.29803921570000003" blue="0.23529411759999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <color key="backgroundColor" red="0.50386661290000001" green="0.14596602319999999" blue="0.12938728930000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="100" id="NtO-cC-drv"/>
                                                     <constraint firstAttribute="height" constant="50" id="mqh-QD-pBO"/>
@@ -107,7 +102,6 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="vxF-Nc-wzy" firstAttribute="centerY" secondItem="6vw-r4-79P" secondAttribute="centerY" id="mfA-7F-vzX"/>
                                             <constraint firstItem="vxF-Nc-wzy" firstAttribute="centerX" secondItem="6vw-r4-79P" secondAttribute="centerX" id="uLe-b9-Eye"/>
@@ -146,9 +140,6 @@
         <image name="GreenBackground" width="444.5" height="414"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
-        <systemColor name="systemGray2Color">
-            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
